@@ -1,0 +1,13 @@
+name: IC50Application
+title: IC50Application
+username:
+account: claireshz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1035274
+bundleId: 2238195
+url: https://claireshz.shinyapps.io/IC50Application/
+when: 1563305498.63751
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: IC50application.R|TestData.xlsx
