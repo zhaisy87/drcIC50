@@ -1,4 +1,4 @@
-A shiny app that accepts dose-response data for three investigated drug, computes IC50 and produces curves with between-drug IC50 tests.  
+A shiny app that accepts dose-response data for three investigational drugs, computes IC50s and produces dose-response curves with between-drug IC50 tests.  
 link: https://claireshz.shinyapps.io/IC50Application/
 
 **Input** - Upload a spreadsheet containing the absolute absorbances of all wells on one plate (MTT is used) in the following manner:
